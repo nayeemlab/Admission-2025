@@ -1,0 +1,11 @@
+Status: https://apply.memphis.edu/apply/status?tab=home
+Email: nayeem5847@gmail.com
+Pass: 00584700@Mnh
+Next steps: https://www.memphis.edu/graduateadmissions/future/next_steps.php
+
+
+mymemphis: https://sso.memphis.edu/idp/profile/cas/login?execution=e1s1
+UUID: mhasan20
+Pass: 00584700$MnhSab
+
+file upload: https://umwa.memphis.edu/immunizations/index.php/immunizations/fileupload
